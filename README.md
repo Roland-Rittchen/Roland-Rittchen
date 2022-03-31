@@ -1,4 +1,10 @@
-### Hi there 👋
+### Roland Rittchen - Full Stack Web Developer
+
+I am an automotive and motorsport engineer turned software developer. In graduating the [Upleveled](https://upleveled.io/) bootcamp I aspire to start a new career in an exciting ever changing field. 
+
+I am currently looking for a fullstack or backend position either in person in Vienna, or remotely globally. [Contact](mailto:"rrittchen@gmail.com") me for more details.
+
+Working with React, React-Native, Next.js, Node.js, in both Javascript and Typescript using GraphQL and PostgreSQL for Database and deployment in Docker
 
 <!--
 **Roland-Rittchen/Roland-Rittchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
